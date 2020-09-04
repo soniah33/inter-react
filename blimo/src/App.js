@@ -55,7 +55,7 @@ class App extends Component{
             nationalIdNumber:event.target.value
         })
     } 
-    changeVotersNumber = (event) =>{
+    changeVotersumber = (event) =>{
         this.setState({
             votersNumber:event.target.value
         })
