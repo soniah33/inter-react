@@ -1,0 +1,22 @@
+.first-style{
+    background-color: rgb(255, 0, 76);
+}
+
+.second-style{
+    background-color: blueviolet;
+    text-decoration-style: solid;
+    text-decoration-color: white;
+    text-align: center;
+    text-shadow: cornsilk;
+    text-justify: inter-ideograph;
+    text-decoration-style: wavy;
+}
+.third-style{
+    background-color: darksalmon;
+    text-align: center;
+    text-anchor: middle;
+}
+.fourth-style{
+    text-align: center;
+    text-underline-position: below;
+}
